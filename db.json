@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Let it be : The Beatles",
+      "url": "https://m.media-amazon.com/images/M/MV5BZTJmNDVkZTItNzJiZC00YzM5LWIxM2QtMTRjODA1MDRmYTEwXkEyXkFqcGdeQXVyMTk0MTU1OTk@._V1_.jpg",
+      "embededLink": "https://www.youtube.com/embed/QDYfEBY9NM4"
+    },
+    {
+      "id": "2",
+      "caption": "Time - Pink Floyd",
+      "url": "https://i.ytimg.com/vi/yl-Ms_ek-kE/maxresdefault.jpg",
+      "embededLink": "https://www.youtube.com/embed/Qr0-7Ds79zo"
+    },
+    {
+      "id": "3",
+      "caption": "Another day in paradise - Phil Collins",
+      "url": "https://i.scdn.co/image/ab67616d0000b27307b486f09d5c8352b5f66ea0",
+      "embededLink": "https://www.youtube.com/embed/fEk_hKiGNQc"
+    },
+    {
+      "id": "4",
+      "caption": "Imagine - John Lennon",
+      "url": "https://images-cdn.ubuy.co.in/634ec1b97a26661bfc2d7466-john-lennon-imagine-wall-art-print.jpg",
+      "embededLink": "https://www.youtube.com/embed/YkgkThdzX-8"
+    },
+    {
+      "id": "5",
+      "caption": "Hotel California-Eagles",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+      "embededLink": "https://www.youtube.com/embed/09839DpTctU"
+    },
+    {
+      "id": "7",
+      "caption": "Let it be me - LOBO",
+      "url": "https://cdns-images.dzcdn.net/images/cover/4baae77cc4aeebecd437ce9643598c33/264x264.jpg",
+      "embededLink": "https://www.youtube.com/embed/kFUrQjERGg4"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Rock",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "POP",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Metal",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": "Electronic",
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Time - Pink Floyd",
+      "embededLink": "https://www.youtube.com/embed/Qr0-7Ds79zo",
+      "timeStamp": "02/2024, 02:34:54 PM",
+      "id": 2
+    },
+    {
+      "caption": "Imagine - John Lennon",
+      "embededLink": "https://www.youtube.com/embed/YkgkThdzX-8",
+      "timeStamp": "02/2024, 10:54:47 AM",
+      "id": 3
+    }
+  ]
+}
